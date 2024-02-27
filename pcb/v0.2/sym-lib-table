@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OP07CDR")(type "KiCad")(uri "${KIPRJMOD}/components/OP07CDR/OP07CDR.kicad_sym")(options "")(descr ""))
+  (lib (name "MB10S")(type "KiCad")(uri "${KIPRJMOD}/components/MB10S/MB10S.kicad_sym")(options "")(descr ""))
+  (lib (name "NE555DR")(type "KiCad")(uri "${KIPRJMOD}/components/NE555DR/NE555DR.kicad_sym")(options "")(descr ""))
+  (lib (name "AL8860QMP-13")(type "KiCad")(uri "${KIPRJMOD}/components/AL8860QMP-13/KiCad/AL8860QMP-13.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/components/custom_components/custom_components.kicad_sym")(options "")(descr ""))
+  (lib (name "custom_components")(type "KiCad")(uri "${KIPRJMOD}/components/custom_components/custom_components.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AL8860QMP_13'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "AL8860QMP-13" (!) = "", "SOP65P490X110-9N", "Small Outline Packages", "621-AL8860QMP-13", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AL8860QMP-13?qs=EBDBlbfErPyyWdIw%2F9tthg%3D%3D", "AL8860QMP-13", "https://www.arrow.com/en/products/al8860qmp-13/diodes-incorporated?region=europe", "LED Lighting Drivers LED MV Int Switch", "https://www.diodes.com/assets/Datasheets/AL8860Q.pdf", "1.1 mm"
+END_PART
+
+END.

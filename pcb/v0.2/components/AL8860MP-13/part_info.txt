@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=AL8860MP-13
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=2.1
+Released=2017-12-11 16:43:38
+Downloaded=2024-02-27 15:37:16
+3D=Y
