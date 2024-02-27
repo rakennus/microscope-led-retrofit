@@ -1,7 +1,0 @@
-2835:
-60 lumens
-150mA
-
-1w led: 
-350mA
-100 – 110 Lumens
