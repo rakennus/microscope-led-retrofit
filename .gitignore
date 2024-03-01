@@ -1,1 +1,5 @@
 documents/
+*.FCBak
+fp-info-cache
+*.kicad_prl
+**/microscope-backups/
