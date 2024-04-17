@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AL8860QMP-13
+D LED Lighting Drivers LED MV Int Switch
+K
+F https://www.diodes.com/assets/Datasheets/AL8860Q.pdf
+$ENDCMP
+#
+#End Doc Library

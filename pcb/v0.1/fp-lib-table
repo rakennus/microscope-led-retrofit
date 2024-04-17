@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "OP07CDR")(type "KiCad")(uri "${KIPRJMOD}/components/OP07CDR")(options "")(descr ""))
-  (lib (name "MB10S")(type "KiCad")(uri "${KIPRJMOD}/components/MB10S")(options "")(descr ""))
-)
