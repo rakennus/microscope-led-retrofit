@@ -2,6 +2,7 @@
   (version 7)
   (lib (name "MB10S")(type "KiCad")(uri "${KIPRJMOD}/components/MB10S")(options "")(descr ""))
   (lib (name "NE555DR")(type "KiCad")(uri "${KIPRJMOD}/components/NE555DR")(options "")(descr ""))
-  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/components/AL8860QMP-13/KiCad")(options "")(descr ""))
   (lib (name "LM358DR")(type "KiCad")(uri "${KIPRJMOD}/components/LM358DR")(options "")(descr ""))
+  (lib (name "xh-custom")(type "KiCad")(uri "${KIPRJMOD}/components/XH-custom/xh-custom.pretty")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "${KIPRJMOD}/components/XH-custom/led.pretty")(options "")(descr ""))
 )

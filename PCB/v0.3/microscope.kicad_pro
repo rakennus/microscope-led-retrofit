@@ -456,11 +456,10 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "Net-(D4-A)": "power",
       "Net-(D4-K)": "power",
-      "Net-(D5-A)": "power",
       "Net-(J3-Pin_1)": "power",
-      "Net-(J3-Pin_2)": "power"
+      "Net-(J3-Pin_2)": "power",
+      "Net-(Q2-D)": "power"
     },
     "netclass_patterns": [
       {
